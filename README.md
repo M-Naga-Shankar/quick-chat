@@ -31,8 +31,8 @@ This project simulates WebSocket communication to enable **instant messaging**, 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/chatterbox.git
-   cd chatterbox
+   git clone https://github.com/M-Naga-Shankar/quick-chat.git
+   cd quick-chat
    ```
 
 2. **Install dependencies**
